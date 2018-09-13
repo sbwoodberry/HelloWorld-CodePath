@@ -7,6 +7,8 @@ This is a simple iOS app with the text "Hello from Sam!". It allows the user to 
 
 <img src="https://s3.amazonaws.com/img0.recordit.co/a5cQ3s6RPZ.mp4?AWSAccessKeyId=AKIAINSRFOQXTN4DT46A&Expires=1536863984&Signature=Qg0fr%2Bg9jd5qUy1ut4A4Y1lfUKQ%3D" width=200><br>
 
+If it doesn't work, visit this link: http://recordit.co/a5cQ3s6RPZ
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
